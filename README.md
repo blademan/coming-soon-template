@@ -1,2 +1,1 @@
-# expanding-cards
-https://blademan.github.io/expanding-cards/
+Coming soon template
